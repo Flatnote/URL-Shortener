@@ -1,11 +1,8 @@
 <h1 align="center">
-  URL-Shortner
+  URL-Shortener
 </h1>
 
 <h4 align="center">Creating custom URL shortener With Nodejs</h4>
-
-</br>
-Building a custom URL shortening service like goo.gl using ExpressJs and Mongodb
 
 ## Technologies
 
