@@ -27,6 +27,7 @@
 
 ### TO DO
 - integrate an auth server (eg.firebase auth, auth0)
+- add authorized page (check permission)
 
 #### Run back end
 
